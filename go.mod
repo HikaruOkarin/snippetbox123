@@ -1,3 +1,3 @@
-module snippetbox123
+module HikaruOkarin/snippetbox123
 
 go 1.20
